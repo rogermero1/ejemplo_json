@@ -1,0 +1,5 @@
+package prueba.dto;
+
+public class ChuckNorrisJoke {
+
+}

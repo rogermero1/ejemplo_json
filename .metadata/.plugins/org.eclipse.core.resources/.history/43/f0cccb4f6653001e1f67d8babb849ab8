@@ -1,0 +1,9 @@
+package prueba.servicioApi;
+
+public class ApiServicio {
+	public MiDto obtenerDatos() {
+       
+		
+        return miDto;
+    }
+}

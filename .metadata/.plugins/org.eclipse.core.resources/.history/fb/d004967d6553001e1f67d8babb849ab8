@@ -1,0 +1,10 @@
+package prueba.dto;
+
+public class datosUno {
+
+	private String icon_url;
+	private String id;
+	private String url;
+	private String value;
+	
+}

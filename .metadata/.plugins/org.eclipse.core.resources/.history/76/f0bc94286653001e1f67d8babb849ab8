@@ -1,0 +1,17 @@
+package prueba.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+public class datosUno {
+
+	private String icon_url;
+	private String id;
+	private String url;
+	private String value;
+	
+}
