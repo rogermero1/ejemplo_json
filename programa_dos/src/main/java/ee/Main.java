@@ -10,7 +10,7 @@ public class Main {
 	public static void main(String[] args) {
 		ApiService apiService = new ApiService();
         try {
-            ChuckNorrisJoke joke = apiService.obtenerChiste();
+            ApiPokemon joke = apiService.obtenerChiste();
             System.out.println("desde otro proyecto");
             System.out.println(joke.getValue());
             System.out.println(joke.getIcon_url());
