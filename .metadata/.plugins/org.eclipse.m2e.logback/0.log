@@ -480,3 +480,5 @@ Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/pr
 2023-09-19 21:15:33,763 [Worker-64: Launching principal] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/programa_dos: prueba:prueba:1.1 with classifier null to /programa_dos/target/classes
 2023-09-19 21:15:33,768 [Worker-64: Launching principal] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/programa_dos: prueba:prueba:1.1 with classifier null to /programa_dos/target/classes
 2023-09-19 21:18:41,035 [Worker-69: Launching principal] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/programa_dos: prueba:prueba:1.1 with classifier null to /programa_dos/target/classes
+2023-09-19 21:18:41,040 [Worker-69: Launching principal] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/programa_dos: prueba:prueba:1.1 with classifier null to /programa_dos/target/classes
+2023-09-19 21:18:41,046 [Worker-69: Launching principal] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/programa_dos: prueba:prueba:1.1 with classifier null to /programa_dos/target/classes
